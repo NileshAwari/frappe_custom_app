@@ -5,6 +5,8 @@ app_description = "msg popup"
 app_email = "teast@test.com"
 app_license = "mit"
 
+
+include_app_in_docs = True
 # Apps
 # ------------------
 
